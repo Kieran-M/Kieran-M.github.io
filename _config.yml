@@ -6,7 +6,7 @@ email: kieran@kieranmalloy.com
 description: >- 
   Welcome to my website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kieranmalloy.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.kieranmalloy.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: Kieran Malloy
 street_address: 33 Newton Street
 city: Greenock
