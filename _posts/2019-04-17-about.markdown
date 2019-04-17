@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "About"
+description: About me
+date:   2019-04-17 21:49:29 +0100
+categories: jekyll update
+---
+My name is Kieran and im currently a BSc(Hons) student at the University of Strathclyde.  
+You can find a copy of my CV <a href="\assets\images\CV.pdf">here</a>.
